@@ -5,9 +5,9 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h2`
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   text-transform: uppercase;
   text-align: center;
   font-size: 20px;
-  color: #400080;
+  color: #0800ff;
 `;
